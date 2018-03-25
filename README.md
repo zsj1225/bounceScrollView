@@ -1,0 +1,2 @@
+# bounceScrollView
+基于鸿洋的小米隐私短信效果修改.把ListView改成Recycleview
