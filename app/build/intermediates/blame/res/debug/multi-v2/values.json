@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "685,743",
+                        "endColumns": "57,55",
+                        "endOffsets": "738,794"
+                    }
+                },
+                {
+                    "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "1417,1708",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "1703,1863"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\zsj\\.gradle\\caches\\transforms-1\\files-1.1\\recyclerview-v7-26.0.0-alpha1.aar\\c3a9e66b65e6adceebd550885356d2e0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "685,744,792,848,923,999,1071",
+                        "endColumns": "58,47,55,74,75,71,65",
+                        "endOffsets": "739,787,843,918,994,1066,1132"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "799,858,906,962,1037,1113,1185",
+                        "endColumns": "58,47,55,74,75,71,65",
+                        "endOffsets": "853,901,957,1032,1108,1180,1246"
+                    }
+                },
+                {
+                    "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "119,58,173",
+                        "endColumns": "52,59,52",
+                        "endOffsets": "167,113,221"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1251,1304,1364",
+                        "endColumns": "52,59,52",
+                        "endOffsets": "1299,1359,1412"
+                    }
+                }
+            ]
+        }
+    ]
+}

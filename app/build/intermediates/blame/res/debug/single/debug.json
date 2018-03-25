@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xrk.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-hdpi\\xrk.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\layout_second.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_w02.jpg.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-hdpi\\w02.jpg"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_rv_item.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\layout\\view_rv_item.xml"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_welcome.jpg.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shakehideimg_man.png.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\drawable-hdpi\\shakehideimg_man.png"
+    },
+    {
+        "merged": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\GitHubDemo\\zhy_bounceScrollView02\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:11:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:15:9-62
+activity#com.example.zhy_bouncescrollview02.MainActivity
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:17:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.zhy_bouncescrollview02.SecondActivity
+ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from D:\GitHubDemo\zhy_bounceScrollView02\app\src\main\AndroidManifest.xml:25:19-49
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\366fb143f45cd4e5cfdab404b84f7ef5\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\b6c3403564bbabf8045834dd0c926b2a\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\zsj\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\c3a9e66b65e6adceebd550885356d2e0\AndroidManifest.xml:23:9-47
